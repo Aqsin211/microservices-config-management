@@ -1,0 +1,12 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://postgres:5432/test-database
+    username: postgres
+    password: Postgres1234567890
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+
+max:
+  task: 100
