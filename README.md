@@ -99,7 +99,7 @@ POST http://localhost:8081/actuator/refresh
 
 ## Technical Highlights
 
-* Spring Boot 3.5, Java 21
+* Spring Boot 3.5.5, Java 21
 * Spring Cloud Config 2025.0.0
 * Dockerized microservices with Compose orchestration
 * PostgreSQL persistent storage
