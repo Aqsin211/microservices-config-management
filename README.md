@@ -107,6 +107,3 @@ POST http://localhost:8081/actuator/refresh
 * Global exception handling with meaningful error responses
 * Dynamic, profile-based configuration for multiple environments
 * REST API demonstrating clean architecture and scalable service design
-
-```
-```
