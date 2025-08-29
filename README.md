@@ -1,7 +1,7 @@
 # Centralized Configuration with Spring Cloud Config Server and Microservices
 
 ## Portfolio Showcase
-This project demonstrates a professional microservice architecture highlighting **centralized configuration management**, **Dockerized orchestration**, and **REST API development**. It showcases senior-level competencies in:
+This project demonstrates a professional microservice architecture highlighting **centralized configuration management**, **Dockerized orchestration**, and **REST API development**. It showcases competencies in:
 
 - **Centralized Configuration**: Spring Cloud Config Server in native mode serving profile-specific configurations (`prod` and `test`) for multiple microservices.
 - **Dynamic Configuration Refresh**: Configuration properties can be updated at runtime using `@RefreshScope` and Spring Actuator `/refresh`.
